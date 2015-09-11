@@ -1,4 +1,4 @@
-__author__ = 'daniel.neumann'
+__author__ = 'josiah.hardacre'
 
 # File: chaos.py
 # A simple program illustrating chaotic behavior.
